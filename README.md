@@ -5,4 +5,4 @@
 
 [คลิกเพื่อดูรายละเอียด](https://o365cmu-my.sharepoint.com/:b:/g/personal/chayanin_s_cmu_ac_th1/ERpfYTdv7iJChl3JzmIcrPMB7OgzuVC55PP03wk1A6AIMQ?e=gYviYZ)
 
-GitHub Page URL : 
+GitHub Page URL : [lab07-r1chwo0n](https://cpe207.github.io/lab07-r1chwo0n/)
